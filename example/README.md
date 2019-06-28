@@ -1,6 +1,6 @@
 # csv2ble
 
-This application create XML files from CSV files.
+This application creates XML files from CSV files.
 
 You can pick up a CSV file like this:
 
