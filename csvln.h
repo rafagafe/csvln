@@ -29,7 +29,7 @@
 /** It parses a CSV line.
   * @param dest Destination array of pointers to fields (null-terminated strings).
   * @param max  Length of the destination array.
-  * @param ln   CSV line. It will be edited changing the separators chars by null chars.
+  * @param ln   CSV line. It will be edited changing the separators or space chars by null chars.
   * @param sp   Indicates the separator char.
   * @return     Number of fields found. */
 int csvln( char* dest[], int max, char* ln, int sp );
