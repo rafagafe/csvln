@@ -1,4 +1,4 @@
-# csv2ble
+# csv2xml
 
 This application creates XML files from CSV files.
 
